@@ -53,6 +53,10 @@ Como as aulas originais utilizam a sintaxe antiga de formatação (`.format()`),
 * **Descrição:** Exibe a tabuada completa de um número inteiro de 1 a 10.
 * **Conceitos:** Repetição manual de operações, alinhamento visual de texto no terminal e uso de multiplicadores de strings (`'-' * 12`) para criar divisórias.
 
+### 10. Conversor de Moedas
+* **Descrição:** Lê quanto dinheiro uma pessoa tem na carteira e mostra quantos dólares ela pode comprar.
+* **Conceitos:** Operações matemáticas de divisão com números de ponto flutuante (`float`) e formatação de casas decimais (`:.2f`) para representar valores monetários de forma realista.
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
