@@ -57,6 +57,18 @@ Como as aulas originais utilizam a sintaxe antiga de formatação (`.format()`),
 * **Descrição:** Lê quanto dinheiro uma pessoa tem na carteira e mostra quantos dólares ela pode comprar.
 * **Conceitos:** Operações matemáticas de divisão com números de ponto flutuante (`float`) e formatação de casas decimais (`:.2f`) para representar valores monetários de forma realista.
 
+### 11. Pintando Parede
+* **Descrição:** Calcula a área de uma parede e a quantidade de tinta necessária para pintá-la, sabendo que cada litro de tinta cobre 2m².
+* **Conceitos:** Operações matemáticas básicas e lógica de conversão proporcional baseada em variáveis.
+
+### 12. Calculando Desconto
+* **Descrição:** Aplica um desconto de 5% sobre o preço de um produto e exibe o valor final.
+* **Conceitos:** Cálculo de porcentagem e formatação de saída de dados monetários com duas casas decimais (`:.2f`).
+
+### 13. Reajuste Salarial
+* **Descrição:** Calcula o novo salário de um funcionário com base em um aumento de 15%.
+* **Conceitos:** Manipulação de variáveis com incremento percentual e formatação monetária.
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
