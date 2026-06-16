@@ -135,11 +135,9 @@ Como as aulas originais utilizam a sintaxe antiga de formatação (`.format()`),
 
 ### 📦 Bibliotecas Externas
 
-Para rodar o **Exercício 21 (Tocando um MP3)**, é necessário instalar a biblioteca `pygame`. Você pode instalá-la executando o seguinte comando no seu terminal:
+Para rodar o **Exercício 21 (Tocando um MP3)**, é necessário instalar a biblioteca **pygame**. Você pode instalá-la executando o seguinte comando no seu terminal:
 
-```bash
-pip install pygame
-
+*_pip install pygame_*
 
 ## 👤 Autora
 
