@@ -139,6 +139,7 @@ Para rodar o **Exercício 21 (Tocando um MP3)**, é necessário instalar a bibli
 ```bash
 pip install pygame
 
+
 ## 👤 Autora
 
 * **Gleise** - [Meu LinkedIn](linkedin.com/in/gleisepacificosilva)
