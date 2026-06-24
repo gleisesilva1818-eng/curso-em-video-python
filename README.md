@@ -125,6 +125,38 @@ Como as aulas originais utilizam a sintaxe antiga de formatação (`.format()`),
 * **Descrição:** Isola e exibe separadamente apenas o primeiro e o último nome de uma pessoa.
 * **Conceitos:** Divisão de strings com `.split()` e indexação dinâmica usando o tamanho da lista (`len(nome)-1`).
 
+### 28. Jogo da Adivinhação v1.0
+* **Descrição:** O computador escolhe um número inteiro entre 0 e 5 e o usuário tenta adivinhar. O programa avisa se o jogador venceu ou perdeu.
+* **Conceitos:** Uso do método `randint` do módulo `random`, estruturas condicionais e efeito de transição com `sleep` do módulo `time`.
+
+### 29. Radar Eletrônico
+* **Descrição:** Lê a velocidade de um carro. Se ultrapassar 80 km/h, exibe uma mensagem dizendo que ele foi multado e calcula o valor (R$ 7,00 por cada km acima do limite).
+* **Conceitos:** Estrutura condicional simples e cálculo de taxas operacionais baseadas em limites de variáveis.
+
+### 30. Par ou Ímpar?
+* **Descrição:** Lê um número inteiro qualquer e mostra na tela se ele é PAR ou ÍMPAR com um efeito de análise simulada.
+* **Conceitos:** Operador de resto da divisão (`%`), condicionais e controle de tempo com `sleep`.
+
+### 31. Custo da Viagem
+* **Descrição:** Calcula o preço de uma passagem de viagem baseado na distância em km. Cobra R$ 0,50 por km para viagens de até 200 km e R$ 0,45 para viagens mais longas.
+* **Conceitos:** Condicionais compostas para aplicação de tarifas dinâmicas e manipulação de ponto flutuante.
+
+### 32. Ano Bissexto
+* **Descrição:** Lê um ano qualquer e mostra se ele é bissexto. Permite usar o número 0 para puxar e validar dinamicamente o ano atual configurado no sistema.
+* **Conceitos:** Importação e manipulação do módulo nativo `datetime` e lógica booleana complexa combinando os operadores `and` e `or`.
+
+### 33. Maior e Menor Valores
+* **Descrição:** Lê três números e mostra qual é o maior e qual é o menor deles.
+* **Conceitos:** Lógica de atribuição e eliminação por comparações lógicas repetidas (estruturas condicionais em sequência).
+
+### 34. Aumentos Múltiplos
+* **Descrição:** Calcula o reajuste de um salário baseado em faixas: para salários superiores a R$ 1.250,00, aumento de 10%. Para os inferiores ou iguais, aumento de 15%.
+* **Conceitos:** Estruturas condicionais compostas (`if/else`) aplicadas a regras de negócio e reajustes percentuais.
+
+### 35. Analisando Triângulo v1.0
+* **Descrição:** Lê o comprimento de três retas e diz ao usuário se elas podem ou não formar um triângulo.
+* **Conceitos:** Operador lógico de conjunção (`and`) para validação matemática de condições de existência geométricas.
+
 ---
 
 ## 🛠️ Ferramentas e Bibliotecas
