@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Curso%20em%20V%C3%ADdeo-Python%203-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Badge Python">
-  <img src="https://img.shields.io/badge/Status-Em%20Progresso-green?style=for-the-badge" alt="Badge Status">
+  <img src="https://img.shields.io/badge/Status-Concluido-brightgreen?style=for-the-badge" alt="Badge Status">
 </p>
 
 Este repositório reúne os exercícios e desafios que desenvolvi ao longo do curso de Python do Gustavo Guanabara. Utilizo este espaço para consolidar minha lógica de programação, documentar os conceitos aprendidos e construir meu portfólio prático na tecnologia.
