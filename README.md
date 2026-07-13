@@ -14,8 +14,8 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 
 | Módulo | Status | Descrição |
 | :--- | :---: | :--- |
-| **Mundo 1: Fundamentos** | 🟢 Concluído | Configuração do ambiente, tipos primitivos, manipulação de texto e estruturas condicionais simples. |
-| **Mundo 2: Estruturas de Controle** | 🟡 Ativo | Condicionais aninhadas (`elif`) e estruturas de repetição (`for` e `while`). |
+| **Mundo 1: Fundamentos** | 🟢 Concluído | Tipos de dados primitivos, operadores aritméticos, integração de bibliotecas nativas, manipulação de strings e análise de textos, e estruturas de decisão (lógica condicional simples e composta). |
+| **Mundo 2: Estruturas de Controle** | 🟡 Ativo | Condicionais aninhadas (lógica booleana ramificada), e estruturas de repetição controladas por contadores (for) e por teste lógico (while com interrupções de fluxo). |
 
 ---
 
