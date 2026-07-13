@@ -266,4 +266,4 @@ pip install pygame
 
 ## 👤 Autora
 
-* **Gleise** - [Meu LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/gleisepacificosilva)
+* **Gleise** - [Meu LinkedIn](https://www.linkedin.com/in/gleisepacificosilva/)
