@@ -174,7 +174,7 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Estruturas de Repetição Controladas:** Laços contados iterativos através da instrução `for`.
 * **Módulos Práticos:** Utilização e importação de módulos externos para controle de tempo (`time`) e geração de valores pseudoaleatórios (`random`).
 
-*📂 Os scripts desenvolvidos estão organizados dentro da pasta `/Mundo_02`.*
+*📂 Os scripts desenvolvidos estão organizados dentro da pasta `Mundo 2`.*
 
 ---
 
