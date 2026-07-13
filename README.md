@@ -262,6 +262,17 @@ Instale rodando no terminal:
 ```bash
 pip install pygame
 
+Sem problemas, Gleise! Vamos facilitar isso ao máximo para você conseguir copiar de forma limpa.
+
+Aqui está **apenas o trecho final** formatado em texto simples. Pode selecionar e copiar o bloco abaixo por inteiro e colar diretamente no lugar daquele final que ficou incorreto:
+
+Instale rodando no terminal:
+
+```bash
+pip install pygame
+
+```
+
 ## 👤 Autora
 
-* **Gleise** - [Meu LinkedIn](https://www.linkedin.com/in/gleisepacificosilva)
+* **Gleise** - [Meu LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/gleisepacificosilva)
