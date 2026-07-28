@@ -242,6 +242,11 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Recebe o primeiro termo e a razão de uma Progressão Aritmética e exibe seus 10 primeiros termos no console.
 * **Conceitos:** Lógica de progressões matemáticas calculando o enésimo termo e aplicando-o na parametrização do laço `for`.
 
+
+### 52. Números Primos
+* **Descrição:** Lê um número inteiro do usuário e verifica se ele é primo, exibindo todos os seus divisores no terminal com destaque de cores.
+* **Conceitos:** Contagem de divisores com a estrutura `for`, verificação condicional de resto zero (`%`) e estilização no terminal com cores ANSI.
+
 </details>
 
 ---
