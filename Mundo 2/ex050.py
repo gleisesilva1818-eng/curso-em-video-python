@@ -9,5 +9,3 @@ for c in range(1, 7,):
         soma = soma + num
         cont = cont + 1
 print(f'Você informou {cont} números pares, e a soma foi de {soma}.')
-
-ias
