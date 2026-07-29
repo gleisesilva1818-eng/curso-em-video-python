@@ -247,6 +247,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê um número inteiro do usuário e verifica se ele é primo, exibindo todos os seus divisores no terminal com destaque de cores.
 * **Conceitos:** Contagem de divisores com a estrutura `for`, verificação condicional de resto zero (`%`) e estilização no terminal com cores ANSI.
 
+### 53. Detector de Palíndromo
+* **Descrição:** Lê uma frase qualquer, remove a formatação e os espaços, e verifica se o texto lido de trás para frente é idêntico ao original (palíndromo).
+* **Conceitos:** Manipulação de strings com métodos (`strip()`, `upper()`, `split()`, `join()`) e fatiamento avançado (`[::-1]`).
+
 </details>
 
 ---
