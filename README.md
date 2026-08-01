@@ -259,6 +259,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê o peso de cinco pessoas e identifica qual foi o maior e o menor valor digitado.
 * **Conceitos:** Lógica de inicialização de variáveis limites na primeira iteração do laço `for` e comparações condicionais encadeadas.
 
+### 56. Analisador Completo
+* **Descrição:** Coleta dados de nome, idade e sexo de quatro pessoas para calcular a média de idade do grupo, identificar o homem mais velho e contar quantas mulheres possuem menos de 20 anos.
+* **Conceitos:** Processamento de múltiplos tipos de dados dentro do laço `for`, acumuladores numéricos, manipuladores de string (`strip()`) e múltiplos filtros condicionais (`in 'Mm'`).
+
 </details>
 
 ---
