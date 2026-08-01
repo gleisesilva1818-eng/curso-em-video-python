@@ -251,6 +251,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê uma frase qualquer, remove a formatação e os espaços, e verifica se o texto lido de trás para frente é idêntico ao original (palíndromo).
 * **Conceitos:** Manipulação de strings com métodos (`strip()`, `upper()`, `split()`, `join()`) e fatiamento avançado (`[::-1]`).
 
+### 54. Grupo da Maioridade
+* **Descrição:** Lê o ano de nascimento de sete pessoas e determina quantas já atingiram a maioridade (18 anos) e quantas ainda são menores, utilizando o ano atual do sistema.
+* **Conceitos:** Importação de módulos nativos (`datetime`), laço de repetição `for`, cálculo de datas e lógica de contadores condicionais.
+
 </details>
 
 ---
