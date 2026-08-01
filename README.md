@@ -169,10 +169,6 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 <details>
 <summary><b>🚀 Mundo 2: Estruturas de Controle (Exercícios 36 ao 71) — [EM PROGRESSO]</b></summary>
 
-### 🛠️ Práticas e Conceitos Aplicados nesta Etapa:
-* **Condicionais Aninhadas:** Tomadas de decisão mais complexas utilizando a estrutura `if/elif/else`.
-* **Estruturas de Repetição Controladas:** Laços contados iterativos através da instrução `for`.
-* **Módulos Práticos:** Utilização e importação de módulos externos para controle de tempo (`time`) e geração de valores pseudoaleatórios (`random`).
 
 *📂 Os scripts desenvolvidos estão organizados dentro da pasta `Mundo 2`.*
 
