@@ -255,6 +255,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê o ano de nascimento de sete pessoas e determina quantas já atingiram a maioridade (18 anos) e quantas ainda são menores, utilizando o ano atual do sistema.
 * **Conceitos:** Importação de módulos nativos (`datetime`), laço de repetição `for`, cálculo de datas e lógica de contadores condicionais.
 
+### 55. Maior e Menor da Sequência
+* **Descrição:** Lê o peso de cinco pessoas e identifica qual foi o maior e o menor valor digitado.
+* **Conceitos:** Lógica de inicialização de variáveis limites na primeira iteração do laço `for` e comparações condicionais encadeadas.
+
 </details>
 
 ---
