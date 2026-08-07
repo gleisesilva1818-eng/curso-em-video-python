@@ -259,6 +259,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Coleta dados de nome, idade e sexo de quatro pessoas para calcular a média de idade do grupo, identificar o homem mais velho e contar quantas mulheres possuem menos de 20 anos.
 * **Conceitos:** Processamento de múltiplos tipos de dados dentro do laço `for`, acumuladores numéricos, manipuladores de string (`strip()`) e múltiplos filtros condicionais (`in 'Mm'`).
 
+### 57. Validação de Dados
+* **Descrição:** Lê o sexo de uma pessoa e força a validação da entrada, solicitando a repetição do dado até que um valor correto ('M' ou 'F') seja informado.
+* **Conceitos:** Estrutura de repetição `while` para validação contínua, manipulação de strings (`strip()`, `upper()`), fatiamento de caracteres (`[0]`) e operador de pertinência (`not in`).
+
 </details>
 
 ---
