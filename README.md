@@ -263,6 +263,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê o sexo de uma pessoa e força a validação da entrada, solicitando a repetição do dado até que um valor correto ('M' ou 'F') seja informado.
 * **Conceitos:** Estrutura de repetição `while` para validação contínua, manipulação de strings (`strip()`, `upper()`), fatiamento de caracteres (`[0]`) e operador de pertinência (`not in`).
 
+### 58. Jogo da Adivinhação v2.0
+* **Descrição:** Aprimoramento do Desafio 28. O computador sorteia um número entre 0 e 10, e o jogador tenta adivinhar com palpites ilimitados até acertar, recebendo dicas de "mais" ou "menos" a cada tentativa e o total de palpites no final.
+* **Conceitos:** Geração de números aleatórios (`randint`), laço `while` com controle de *flag* booleana (`acertei`), acumulador de tentativas e condicionais encadeadas para dicas.
+
 </details>
 
 ---
