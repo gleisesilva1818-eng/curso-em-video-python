@@ -4,13 +4,34 @@
 
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor: '))
-print('-=-' * 8)
-
-
-print('''[1] SOMAR
-[2] MULTIPLICAR
-[3] MAIOR
-[4] NOVOS NÚMEROS
-[5] SAIR DO PROGRAMA''')
-opc = str(input('Digite a sua opção: '))
-print('-=-' * 8)
+print('-=-' * 12)
+opc = 0
+while opc != 5:
+    print('''    [1] SOMAR
+    [2] MULTIPLICAR
+    [3] MAIOR
+    [4] NOVOS NÚMEROS
+    [5] SAIR DO PROGRAMA''')
+    opc = int(input('Digite a sua opção: '))
+    if opc == 1:
+        soma = n1 + n2
+        print(f'>>>>> A soma entre {n1} + {n2} é de: {soma}.')
+    elif opc == 2:
+        mult = n1 * n2
+        print(f'>>>>> O resultado de {n1} x {n2} é de: {mult}.')
+    elif opc == 3:
+        if n1 > n2:
+            maior = n1
+        else:
+            maior = n2
+            print(f'>>>>> Entre {n1} e {n2}, o MAIOR valor é {maior}.')
+    elif opc == 4:
+        print('Informe os números novamente:')
+        n1 = int(input('Primeiro valor: '))
+        n2 = int(input('Segundo valor: '))
+    elif opc == 5:
+        print('FINALIZANDO...')
+    else:
+        print('Opção inválida. Tente novamente!')
+    print('-=-' * 12)
+print('FIM DO PROGRAMA! VOLTE SEMPRE!')
