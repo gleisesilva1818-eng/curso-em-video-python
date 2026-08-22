@@ -267,6 +267,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Aprimoramento do Desafio 28. O computador sorteia um número entre 0 e 10, e o jogador tenta adivinhar com palpites ilimitados até acertar, recebendo dicas de "mais" ou "menos" a cada tentativa e o total de palpites no final.
 * **Conceitos:** Geração de números aleatórios (`randint`), laço `while` com controle de *flag* booleana (`acertei`), acumulador de tentativas e condicionais encadeadas para dicas.
 
+### 59. Criando um Menu de Opções
+* **Descrição:** Recebe dois valores inteiros e exibe um menu interativo no console permitindo realizar operações de soma, multiplicação, identificação do maior valor, leitura de novos números ou encerramento do programa.
+* **Conceitos:** Estrutura de repetição `while` controlada por condição de parada (`opc != 5`), condicionais aninhadas/encadeadas (`if/elif/else`), menus interativos e temporização com `sleep()`.
+
 </details>
 
 ---
