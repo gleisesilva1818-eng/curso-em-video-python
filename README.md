@@ -271,6 +271,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Recebe dois valores inteiros e exibe um menu interativo no console permitindo realizar operações de soma, multiplicação, identificação do maior valor, leitura de novos números ou encerramento do programa.
 * **Conceitos:** Estrutura de repetição `while` controlada por condição de parada (`opc != 5`), condicionais aninhadas/encadeadas (`if/elif/else`), menus interativos e temporização com `sleep()`.
 
+### 60. Cálculo do Fatorial
+* **Descrição:** Lê um número inteiro e exibe o cálculo detalhado do seu fatorial na tela, mostrando a sequência multiplicativa completa e o resultado final.
+* **Conceitos:** Laço de repetição `while` com decremento de contador (`cont -= 1`), acumulador de produto (`fac *= cont`) e expressão condicional inline (operador ternário) para formatação de texto no console.
+
 </details>
 
 ---
