@@ -275,6 +275,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê um número inteiro e exibe o cálculo detalhado do seu fatorial na tela, mostrando a sequência multiplicativa completa e o resultado final.
 * **Conceitos:** Laço de repetição `while` com decremento de contador (`cont -= 1`), acumulador de produto (`fac *= cont`) e expressão condicional inline (operador ternário) para formatação de texto no console.
 
+### 61. Progressão Aritmética v2.0
+* **Descrição:** Reimplementação do Desafio 51. Gera e exibe os 10 primeiros termos de uma Progressão Aritmética a partir do primeiro termo e da razão informados pelo usuário, utilizando a estrutura de repetição `while`.
+* **Conceitos:** Reestruturação de laços com `while`, controle manual de contador (`cont += 1`) e atualização dinâmica do termo da PA (`termo += razão`).
+
 </details>
 
 ---
