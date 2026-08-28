@@ -279,6 +279,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Reimplementação do Desafio 51. Gera e exibe os 10 primeiros termos de uma Progressão Aritmética a partir do primeiro termo e da razão informados pelo usuário, utilizando a estrutura de repetição `while`.
 * **Conceitos:** Reestruturação de laços com `while`, controle manual de contador (`cont += 1`) e atualização dinâmica do termo da PA (`termo += razão`).
 
+### 62. Progressão Aritmética v3.0
+* **Descrição:** Evolução do Desafio 61. Permite ao usuário solicitar a exibição de mais termos da Progressão Aritmética continuamente, encerrando a execução unicamente quando o valor 0 for digitado e informando o total de termos exibidos.
+* **Conceitos:** Laços de repetição `while` aninhados, controle de fluxo por condição de parada (`mais != 0`) e contagem acumulativa de limites (`total += mais`).
+
 </details>
 
 ---
