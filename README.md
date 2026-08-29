@@ -283,6 +283,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Evolução do Desafio 61. Permite ao usuário solicitar a exibição de mais termos da Progressão Aritmética continuamente, encerrando a execução unicamente quando o valor 0 for digitado e informando o total de termos exibidos.
 * **Conceitos:** Laços de repetição `while` aninhados, controle de fluxo por condição de parada (`mais != 0`) e contagem acumulativa de limites (`total += mais`).
 
+### 63. Sequência de Fibonacci v1.0
+* **Descrição:** Lê um número inteiro $N$ e gera os $N$ primeiros elementos da Sequência de Fibonacci na tela.
+* **Conceitos:** Atualização e troca de variáveis em cadeia (`t1 = t2`, `t2 = t3`), laço `while` com contador manual e lógica de progressão matemática.
+
 </details>
 
 ---
