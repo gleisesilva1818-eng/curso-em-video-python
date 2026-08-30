@@ -287,6 +287,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê um número inteiro $N$ e gera os $N$ primeiros elementos da Sequência de Fibonacci na tela.
 * **Conceitos:** Atualização e troca de variáveis em cadeia (`t1 = t2`, `t2 = t3`), laço `while` com contador manual e lógica de progressão matemática.
 
+### 64. Tratando Vários Valores v1.0
+* **Descrição:** Lê múltiplos números inteiros pelo teclado e calcula a soma acumulada e a quantidade de números digitados, interrompendo a leitura ao receber a *flag* de parada `999` (que não é contabilizada na soma).
+* **Conceitos:** Atribuição múltipla de variáveis (`num = cont = soma = 0`), condição de parada com *flag* de controle no laço `while` e técnica de leitura antes e no final do laço para desconsiderar a *flag*.
+
 </details>
 
 ---
