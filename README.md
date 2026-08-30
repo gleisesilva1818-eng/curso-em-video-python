@@ -291,6 +291,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê múltiplos números inteiros pelo teclado e calcula a soma acumulada e a quantidade de números digitados, interrompendo a leitura ao receber a *flag* de parada `999` (que não é contabilizada na soma).
 * **Conceitos:** Atribuição múltipla de variáveis (`num = cont = soma = 0`), condição de parada com *flag* de controle no laço `while` e técnica de leitura antes e no final do laço para desconsiderar a *flag*.
 
+### 65. Maior e Menor Valores
+* **Descrição:** Lê vários números inteiros calculando a média aritmética, o maior e o menor valor digitado, perguntando continuamente ao usuário se ele deseja prosseguir ou encerrar a leitura.
+* **Conceitos:** Laço de repetição `while` controlado por resposta do usuário (`resp in 'Ss'`), cálculo de média aritmética, contadores/acumuladores e lógica de atribuição de limites (maior/menor) na primeira iteração.
+
 </details>
 
 ---
