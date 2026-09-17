@@ -295,6 +295,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê vários números inteiros calculando a média aritmética, o maior e o menor valor digitado, perguntando continuamente ao usuário se ele deseja prosseguir ou encerrar a leitura.
 * **Conceitos:** Laço de repetição `while` controlado por resposta do usuário (`resp in 'Ss'`), cálculo de média aritmética, contadores/acumuladores e lógica de atribuição de limites (maior/menor) na primeira iteração.
 
+### 66. Vários Números com Flag
+* **Descrição:** Lê múltiplos números inteiros no terminal e calcula a soma e a quantidade de valores digitados, utilizando a instrução de interrupção para ignorar a *flag* de parada (`999`).
+* **Conceitos:** Laço infinito `while True`, interrupção de fluxo com `break` e simplificação da leitura sem repetição de código.
+
 </details>
 
 ---
