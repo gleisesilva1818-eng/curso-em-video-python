@@ -39,4 +39,3 @@ print('GAME OVER!')
 print(f'''VITÓRIAS: {vit}
 DERROTAS: {perda}''')
 print('--' * 20)
-
