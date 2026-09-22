@@ -303,6 +303,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Exibe a tabuada de vários números digitados sequencialmente pelo usuário, interrompendo a execução imediatamente assim que um valor negativo for informado.
 * **Conceitos:** Laço infinito `while True`, interrupção com `break`, condição de parada baseada em valores negativos (`n < 0`) e laço `for` aninhado para cálculo e formatação da tabuada.
 
+### 68. Jogo do Par ou Ímpar
+* **Descrição:** Simula o jogo de Par ou Ímpar contra o computador até a primeira derrota do jogador. Além de contabilizar e exibir o número de vitórias consecutivas solicitadas no desafio original, o código foi aprimorado com um contador dedicado para registrar e exibir também o total de derrotas no encerramento (`GAME OVER`).
+* **Conceitos:** Geração de números aleatórios (`randint`), laço infinito (`while True`), validação de entrada de dados, operador de resto da divisão (`%`), interrupção de fluxo com `break` e extensibilidade da lógica com controle de saldo de partidas (vitórias e derrotas).
+
 </details>
 
 ---
