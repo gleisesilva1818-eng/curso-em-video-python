@@ -299,6 +299,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê múltiplos números inteiros no terminal e calcula a soma e a quantidade de valores digitados, utilizando a instrução de interrupção para ignorar a *flag* de parada (`999`).
 * **Conceitos:** Laço infinito `while True`, interrupção de fluxo com `break` e simplificação da leitura sem repetição de código.
 
+### 67. Tabuada v3.0
+* **Descrição:** Exibe a tabuada de vários números digitados sequencialmente pelo usuário, interrompendo a execução imediatamente assim que um valor negativo for informado.
+* **Conceitos:** Laço infinito `while True`, interrupção com `break`, condição de parada baseada em valores negativos (`n < 0`) e laço `for` aninhado para cálculo e formatação da tabuada.
+
 </details>
 
 ---
