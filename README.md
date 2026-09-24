@@ -307,6 +307,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Simula o jogo de Par ou Ímpar contra o computador até a primeira derrota do jogador. Além de contabilizar e exibir o número de vitórias consecutivas solicitadas no desafio original, o código foi aprimorado com um contador dedicado para registrar e exibir também o total de derrotas no encerramento (`GAME OVER`).
 * **Conceitos:** Geração de números aleatórios (`randint`), laço infinito (`while True`), validação de entrada de dados, operador de resto da divisão (`%`), interrupção de fluxo com `break` e extensibilidade da lógica com controle de saldo de partidas (vitórias e derrotas).
 
+### 69. Análise de Dados do Grupo
+* **Descrição:** Realiza o cadastro contínuo da idade e do sexo de várias pessoas com validação estrita de entrada e confirmação de prosseguimento. Além de responder aos requisitos originais (maiores de 18 anos, total de homens e mulheres com menos de 20 anos), o programa foi expandido para contabilizar e exibir também o total geral de mulheres cadastradas no grupo.
+* **Conceitos:** Laço infinito `while True`, validação de dados de entrada com laços aninhados (`while sexo not in 'MF'`), manipuladores de string (`strip()`, `upper()`), operadores lógicos (`and`), interrupção de fluxo com `break` e contadores condicionais estendidos.
+
 </details>
 
 ---
