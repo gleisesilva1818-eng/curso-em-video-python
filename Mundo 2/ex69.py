@@ -30,4 +30,4 @@ while True:
         print('--' * 15)
 print(f'Total de pessoas com mais de 18 anos: {tot18}.')
 print(f'Ao todo temos {fem} mulheres e {masc} homens.')
-print(f'{tot20m} Mulheres tem menos de 20 anos.')
+print(f'E {tot20m} mulheres tem menos de 20 anos.')
