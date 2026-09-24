@@ -7,7 +7,7 @@
 print('==' * 15)
 print('CADASTRE UMA PESSOA')
 print('==' * 15)
-tot18 = masc = fem = 0
+tot18 = masc = fem = tot20m = 0
 while True:
     idade = int(input('Idade: '))
     sexo = ' '
@@ -19,6 +19,8 @@ while True:
         fem += 1
     else:
         masc += 1
+    if sexo == 'F' and idade < 20:
+        tot20m += 1
     resp = ' '
     while resp not in 'SN':
         resp = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
@@ -28,3 +30,4 @@ while True:
         print('--' * 15)
 print(f'Total de pessoas com mais de 18 anos: {tot18}.')
 print(f'Ao todo temos {fem} mulheres e {masc} homens.')
+print(f'{tot20m} Mulheres tem menos de 20 anos.')
