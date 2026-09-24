@@ -4,3 +4,20 @@
 # B) Quantos homens foram cadastrados.
 # C) Quantas mulheres tem menos de 20 anos.
 
+print('==' * 15)
+print('CADASTRE UMA PESSOA')
+print('==' * 15)
+while True:
+    idade = int(input('Idade: '))
+    sexo = ' '
+    while sexo not in 'MF':
+        sexo = str(input('Sexo [M/F]: ')).strip().upper()[0]
+
+    resp = ' '
+    while resp not in 'SN':
+        resp = str(input('Quer continuar? [S/N] ')).strip().upper()[0]
+        print('--' * 15)
+    if resp == 'N':
+        break
+        print('--' * 15)
+print('ACABOU!')
