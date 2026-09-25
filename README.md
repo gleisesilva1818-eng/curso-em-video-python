@@ -311,6 +311,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Realiza o cadastro contínuo da idade e do sexo de várias pessoas com validação estrita de entrada e confirmação de prosseguimento. Além de responder aos requisitos originais (maiores de 18 anos, total de homens e mulheres com menos de 20 anos), o programa foi expandido para contabilizar e exibir também o total geral de mulheres cadastradas no grupo.
 * **Conceitos:** Laço infinito `while True`, validação de dados de entrada com laços aninhados (`while sexo not in 'MF'`), manipuladores de string (`strip()`, `upper()`), operadores lógicos (`and`), interrupção de fluxo com `break` e contadores condicionais estendidos.
 
+### 70. Estatísticas em Produtos
+* **Descrição:** Lê o nome e o preço de diversos produtos em um laço contínuo com validação para prosseguir ou encerrar. Calcula o valor total da compra, a quantidade de itens que custam mais de R$ 1000 e identifica o produto de menor preço.
+* **Conceitos:** Laço infinito `while True`, acumulador e contador numérico, formatação de números flutuantes em f-strings (`:.2f`), lógica simplificada para rastreamento de menor valor em iterações (`cont == 1 or preço < menor`) e interrupção com `break`.
+
 </details>
 
 ---
