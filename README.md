@@ -15,9 +15,9 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 
 | Módulo | Status | Descrição |
 | :--- | :---: | :--- |
-| **Mundo 1: Fundamentos** | 🟢 Concluído | Tipos de dados primitivos, operadores aritméticos, integração de bibliotecas nativas, manipulação de strings e análise de textos, e estruturas de decisão (lógica condicional simples e composta). |
-| **Mundo 2: Estruturas de Controle** | 🟢 Concluído | Condicionais aninhadas (lógica booleana ramificada), e estruturas de repetição controladas por contadores (`for`) e por teste lógico (`while` com interrupções de fluxo via `break`). |
-| **Mundo 3: Estruturas Compostas** | 🟡 Ativo | Tuplas, Listas, Dicionários, Funções, Mapeamento de Erros/Exceções e Modularização de Código. |
+| **Mundo 1: Fundamentos** | 🟢 Concluído | Tipos primitivos, operadores aritméticos e precedência, módulos nativos (`math`, `random`, `datetime`), manipulação avançada de strings (fatiamento, análise, substituição), estruturas condicionais simples e compostas (`if/else`). |
+| **Mundo 2: Estruturas de Controle** | 🟢 Concluído | Condicionais aninhadas (`if/elif/else`), laços de repetição contados (`for` com `range`), repetição por controle lógico (`while`), contadores, acumuladores, flags de parada e interrupção de fluxo via `break`. |
+| **Mundo 3: Estruturas Compostas** | 🟡 Ativo | Estruturas de dados avançadas (Tuplas, Listas simples e compostas, Dicionários), tratamento de erros e exceções (`try/except`), criação de Funções (`def`), escopo de variáveis e Modularização. |
 
 ---
 
