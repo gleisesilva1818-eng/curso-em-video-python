@@ -315,6 +315,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê o nome e o preço de diversos produtos em um laço contínuo com validação para prosseguir ou encerrar. Calcula o valor total da compra, a quantidade de itens que custam mais de R$ 1000 e identifica o produto de menor preço.
 * **Conceitos:** Laço infinito `while True`, acumulador e contador numérico, formatação de números flutuantes em f-strings (`:.2f`), lógica simplificada para rastreamento de menor valor em iterações (`cont == 1 or preço < menor`) e interrupção com `break`.
 
+### 71. Simulador de Caixa Eletrônico
+* **Descrição:** Simula a entrega de cédulas de um caixa eletrônico para um valor de saque informado pelo usuário, distribuindo o montante nas notas disponíveis de R$ 50, R$ 20, R$ 10 e R$ 1.
+* **Conceitos:** Algoritmo ambicioso de menor troco com subtração sucessiva, controle dinâmico do valor da cédula atual (`cedula`), reset de contadores por denominação e interrupção do laço `while True` quando o saldo residual atinge zero.
+
 </details>
 
 ---
