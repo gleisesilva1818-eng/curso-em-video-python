@@ -1,12 +1,25 @@
+Aqui está o seu `README.md` totalmente atualizado, reestruturado e com visual profissional.
+
+As principais alterações realizadas foram:
+
+1. **Badges:** Atualização do badge do Mundo 2 para `Concluído` (verde) e inclusão do badge do Mundo 3 em `Em Progresso` (laranja).
+2. **Tabela de Progresso:** Atualização do Mundo 2 para 🟢 **Concluído** com descrição detalhada dos conceitos consolidados, e inclusão do **Mundo 3: Estruturas Compostas** como 🟡 **Ativo**.
+3. **Título do Mundo 2:** Atualizado para `(Exercícios 36 ao 71) — [CONCLUÍDO]`.
+4. **Preparação do Mundo 3:** Criação do bloco sanfona `<details>` dedicado ao **Mundo 3**, já pronto para receber os próximos exercícios do curso.
+
+---
+
+```markdown
 # Curso em Vídeo: Python 3 - Gustavo Guanabara 🎓
 
 <p align="center">
   <img src="https://img.shields.io/badge/Curso%20em%20V%C3%ADdeo-Python%203-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Badge Python">
   <img src="https://img.shields.io/badge/Mundo%201-Concluido-brightgreen?style=for-the-badge" alt="Mundo 1">
-  <img src="https://img.shields.io/badge/Mundo%202-Em%20Progresso-orange?style=for-the-badge" alt="Mundo 2">
+  <img src="https://img.shields.io/badge/Mundo%202-Concluido-brightgreen?style=for-the-badge" alt="Mundo 2">
+  <img src="https://img.shields.io/badge/Mundo%203-Em%20Progresso-orange?style=for-the-badge" alt="Mundo 3">
 </p>
 
-Este repositório foi criado para consolidar meu aprendizado prático em **Python 3** através do Curso em Vídeo. Aqui, organizo e documento cada desafio desenvolvido no VS Code, aplicando conceitos fundamentais de lógica de programação e estruturas de controle.
+Este repositório foi criado para consolidar meu aprendizado prático em **Python 3** através do Curso em Vídeo. Aqui, organizo e documento cada desafio desenvolvido no VS Code, aplicando conceitos fundamentais de lógica de programação, estruturas de controle e estruturas de dados compostas.
 
 ---
 
@@ -15,7 +28,8 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 | Módulo | Status | Descrição |
 | :--- | :---: | :--- |
 | **Mundo 1: Fundamentos** | 🟢 Concluído | Tipos de dados primitivos, operadores aritméticos, integração de bibliotecas nativas, manipulação de strings e análise de textos, e estruturas de decisão (lógica condicional simples e composta). |
-| **Mundo 2: Estruturas de Controle** | 🟡 Ativo | Condicionais aninhadas (lógica booleana ramificada), e estruturas de repetição controladas por contadores (for) e por teste lógico (while com interrupções de fluxo). |
+| **Mundo 2: Estruturas de Controle** | 🟢 Concluído | Condicionais aninhadas (lógica booleana ramificada), e estruturas de repetição controladas por contadores (`for`) e por teste lógico (`while` com interrupções de fluxo via `break`). |
+| **Mundo 3: Estruturas Compostas** | 🟡 Ativo | Tuplas, Listas, Dicionários, Funções, Mapeamento de Erros/Exceções e Modularização de Código. |
 
 ---
 
@@ -167,8 +181,7 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 </details>
 
 <details>
-<summary><b>🚀 Mundo 2: Estruturas de Controle (Exercícios 36 ao 71) — [EM PROGRESSO]</b></summary>
-
+<summary><b>🚀 Mundo 2: Estruturas de Controle (Exercícios 36 ao 71) — [CONCLUÍDO]</b></summary>
 
 *📂 Os scripts desenvolvidos estão organizados dentro da pasta `Mundo 2`.*
 
@@ -236,8 +249,7 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 
 ### 51. Progressão Aritmética (PA)
 * **Descrição:** Recebe o primeiro termo e a razão de uma Progressão Aritmética e exibe seus 10 primeiros termos no console.
-* **Conceitos:** Lógica de progressões matemáticas calculando o enésimo termo e aplicando-o na parametrização do laço `for`.
-
+* **Conceitos:** Lógica de progressões matemáticas calculando o enésimo termo e aplicando-o na parametrization do laço `for`.
 
 ### 52. Números Primos
 * **Descrição:** Lê um número inteiro do usuário e verifica se ele é primo, exibindo todos os seus divisores no terminal com destaque de cores.
@@ -318,6 +330,17 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 ### 71. Simulador de Caixa Eletrônico
 * **Descrição:** Simula a entrega de cédulas de um caixa eletrônico para um valor de saque informado pelo usuário, distribuindo o montante nas notas disponíveis de R$ 50, R$ 20, R$ 10 e R$ 1.
 * **Conceitos:** Algoritmo ambicioso de menor troco com subtração sucessiva, controle dinâmico do valor da cédula atual (`cedula`), reset de contadores por denominação e interrupção do laço `while True` quando o saldo residual atinge zero.
+
+</details>
+
+<details>
+<summary><b>🔥 Mundo 3: Estruturas Compostas (Exercícios 72 ao 115) — [EM PROGRESSO]</b></summary>
+
+*📂 Os scripts desenvolvidos estão organizados dentro da pasta `Mundo 3`.*
+
+---
+
+*(Exercícios em desenvolvimento...)*
 
 </details>
 
