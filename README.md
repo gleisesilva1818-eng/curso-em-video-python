@@ -1,15 +1,3 @@
-Aqui está o seu `README.md` totalmente atualizado, reestruturado e com visual profissional.
-
-As principais alterações realizadas foram:
-
-1. **Badges:** Atualização do badge do Mundo 2 para `Concluído` (verde) e inclusão do badge do Mundo 3 em `Em Progresso` (laranja).
-2. **Tabela de Progresso:** Atualização do Mundo 2 para 🟢 **Concluído** com descrição detalhada dos conceitos consolidados, e inclusão do **Mundo 3: Estruturas Compostas** como 🟡 **Ativo**.
-3. **Título do Mundo 2:** Atualizado para `(Exercícios 36 ao 71) — [CONCLUÍDO]`.
-4. **Preparação do Mundo 3:** Criação do bloco sanfona `<details>` dedicado ao **Mundo 3**, já pronto para receber os próximos exercícios do curso.
-
----
-
-```markdown
 # Curso em Vídeo: Python 3 - Gustavo Guanabara 🎓
 
 <p align="center">
