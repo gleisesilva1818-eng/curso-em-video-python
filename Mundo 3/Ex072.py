@@ -8,3 +8,5 @@ while True:
     if 0 <= num <= 20:
          break
     print('Tente novamente. ', end='')
+print(f'Você digitou o número {cont[num]}.')
+
