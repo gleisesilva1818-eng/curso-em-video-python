@@ -328,7 +328,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 
 ---
 
-*(Exercícios em desenvolvimento...)*
+### 72. Número por Extenso
+* **Descrição:** Lê um número inteiro entre 0 e 20 digitado pelo usuário e exibe seu valor por extenso utilizando uma tupla como estrutura de consulta estática. Valida a entrada continuamente até que um valor válido no intervalo seja informado.
+* **Conceitos:** Tuplas (coleções imutáveis e indexadas), validação de entrada com laço infinito `while True`, controle de intervalo numérico (`0 <= num <= 20`) e acesso aos elementos via indexação (`cont[num]`).
+
 
 </details>
 
