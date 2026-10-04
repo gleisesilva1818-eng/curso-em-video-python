@@ -332,6 +332,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê um número inteiro entre 0 e 20 digitado pelo usuário e exibe seu valor por extenso utilizando uma tupla como estrutura de consulta estática. Valida a entrada dentro do intervalo e, cumprindo o desafio extra, estende a execução através de um laço principal para permitir múltiplas consultas contínuas até que o usuário opte por encerrar.
 * **Conceitos:** Tuplas (coleções imutáveis e indexadas), laços de repetição aninhados (`while True`), validação de entrada e intervalo numérico (`0 <= num <= 20`), sanitização de resposta do usuário (`strip()`, `upper()`) e interrupção de fluxo com `break`.
 
+### 73. Tuplas com Times de Futebol
+* **Descrição:** Armazena os 20 primeiros colocados de uma tabela do Campeonato Brasileiro em uma tupla e exibe: os 5 primeiros colocados, os 4 últimos (Z-4), a lista de times em ordem alfabética e a posição exata de um clube específico.
+* **Conceitos:** Tuplas imutáveis, fatiamento de coleções (`[:5]` e `[-4:]`), ordenação de coleções sem alteração do objeto original via `sorted()` e busca por índice de elementos com `index()`.
+
 
 </details>
 
