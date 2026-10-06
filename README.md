@@ -336,6 +336,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Armazena os 20 primeiros colocados de uma tabela do Campeonato Brasileiro em uma tupla e exibe: os 5 primeiros colocados, os 4 últimos (Z-4), a lista de times em ordem alfabética e a posição exata de um clube específico.
 * **Conceitos:** Tuplas imutáveis, fatiamento de coleções (`[:5]` e `[-4:]`), ordenação de coleções sem alteração do objeto original via `sorted()` e busca por índice de elementos com `index()`.
 
+### 74. Maior e Menor Valores em Tupla
+* **Descrição:** Gera cinco números aleatórios diretamente na declaração de uma tupla e exibe a sequência sorteada junto com a identificação do maior e do menor valor presente na coleção.
+* **Conceitos:** Geração de números aleatórios com `randint`, empacotamento de dados em tuplas e utilização das funções nativas `max()` e `min()` para análise de limites.
+
 
 </details>
 
