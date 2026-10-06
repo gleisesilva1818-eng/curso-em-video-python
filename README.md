@@ -340,6 +340,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Gera cinco números aleatórios diretamente na declaração de uma tupla e exibe a sequência sorteada junto com a identificação do maior e do menor valor presente na coleção.
 * **Conceitos:** Geração de números aleatórios com `randint`, empacotamento de dados em tuplas e utilização das funções nativas `max()` e `min()` para análise de limites.
 
+### 75. Análise de Dados em uma Tupla
+* **Descrição:** Lê quatro valores numéricos pelo teclado e os armazena diretamente em uma tupla. O programa analisa a coleção para contar a frequência do número 9, identificar a posição da primeira ocorrência do número 3 (com verificação de existência para evitar erros de execução) e filtrar os números pares digitados.
+* **Conceitos:** Leitura e empacotamento direto em tuplas, métodos de coleção (`count()` e `index()`), verificação de pertinência com `in` para tratamento de exceções/erros de busca e iteração com condicional de módulo (`n % 2 == 0`).
+
 
 </details>
 
