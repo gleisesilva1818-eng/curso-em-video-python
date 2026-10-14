@@ -344,6 +344,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê quatro valores numéricos pelo teclado e os armazena diretamente em uma tupla. O programa analisa a coleção para contar a frequência do número 9, identificar a posição da primeira ocorrência do número 3 (com verificação de existência para evitar erros de execução) e filtrar os números pares digitados.
 * **Conceitos:** Leitura e empacotamento direto em tuplas, métodos de coleção (`count()` e `index()`), verificação de pertinência com `in` para tratamento de exceções/erros de busca e iteração com condicional de módulo (`n % 2 == 0`).
 
+### 76. Lista de Preços com Tupla
+* **Descrição:** Armazena nomes de produtos e seus respectivos preços em uma única tupla estruturada de forma intercalada. O programa percorre a coleção e exibe uma listagem de preços organizada tabularmente com alinhamento e formatação de valores monetários.
+* **Conceitos:** Tuplas com dados heterogêneos intercalados, iteração por índices com `range(0, len())`, verificação de posições pares/ímpares (`pos % 2 == 0`) e formatação avançada de f-strings (alinhamento à esquerda/direita, preenchimento com pontos `:.<30` e precisão decimal `:>5.2f`).
+
 
 </details>
 
