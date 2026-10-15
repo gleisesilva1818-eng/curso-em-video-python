@@ -348,6 +348,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Armazena nomes de produtos e seus respectivos preços em uma única tupla estruturada de forma intercalada. O programa percorre a coleção e exibe uma listagem de preços organizada tabularmente com alinhamento e formatação de valores monetários.
 * **Conceitos:** Tuplas com dados heterogêneos intercalados, iteração por índices com `range(0, len())`, verificação de posições pares/ímpares (`pos % 2 == 0`) e formatação avançada de f-strings (alinhamento à esquerda/direita, preenchimento com pontos `:.<30` e precisão decimal `:>5.2f`).
 
+### 77. Contando Vogais em Tupla
+* **Descrição:** Armazena diversas palavras em uma tupla e analisa cada elemento individualmente, identificando e exibindo todas as vogais presentes em cada palavra.
+* **Conceitos:** Tuplas com dados textuais, laços de repetição `for` aninhados (percorrendo a coleção e, em seguida, as letras de cada palavra), manipulação de strings (`upper()`) e operador de pertinência (`in 'aeiouAEIOU'`).
+
 
 </details>
 
