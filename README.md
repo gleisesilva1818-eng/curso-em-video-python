@@ -360,6 +360,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Permite o cadastro contínuo de múltiplos valores numéricos em uma lista, realizando a verificação de duplicidades antes de cada inserção para garantir apenas elementos inéditos. Ao final, exibe todos os valores cadastrados ordenados de forma crescente.
 * **Conceitos:** Listas mutáveis, inserção condicional com `append()`, operador de pertinência (`not in`) para prevenção de duplicatas, tratamento de resposta do usuário em laço `while True`, interrupção com `break` e ordenação in-place via método `sort()`.
 
+### 80. Lista Ordenada sem Repetições (sort)
+* **Descrição:** Lê 5 valores numéricos informados pelo usuário e os insere diretamente na posição correta de ordenação dentro de uma lista, sem utilizar a função `sort()`. Exibe na tela a posição de cada inserção (no final ou em um índice específico) e mostra a lista final ordenada.
+* **Conceitos:** Algoritmo manual de ordenação (Insertion Sort simplificado), manipulação de índices em listas, verificação de extremidades (`c == 0 or n > lista[-1]`), inserção com `append()`, inserção posicional dinâmica com `insert()` e navegação com laço `while`.
+
 
 </details>
 
