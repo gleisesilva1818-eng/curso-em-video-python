@@ -352,6 +352,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Armazena diversas palavras em uma tupla e analisa cada elemento individualmente, identificando e exibindo todas as vogais presentes em cada palavra.
 * **Conceitos:** Tuplas com dados textuais, laços de repetição `for` aninhados (percorrendo a coleção e, em seguida, as letras de cada palavra), manipulação de strings (`upper()`) e operador de pertinência (`in 'aeiouAEIOU'`).
 
+### 78. Maior e Menor Valores na Lista
+* **Descrição:** Lê 5 valores numéricos informados pelo usuário e os armazena em uma lista. O programa identifica o maior e o menor valor digitado e exibe todas as posições (índices) onde esses valores aparecem na coleção, tratando possíveis duplicatas.
+* **Conceitos:** Listas (coleções mutáveis), inserção dinâmica de elementos com `append()`, atribuição condicional de limites na primeira iteração, mapeamento de índices e valores via `enumerate()` e iteração condicional para identificação de múltiplas ocorrências.
+
 
 </details>
 
