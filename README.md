@@ -356,6 +356,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê 5 valores numéricos informados pelo usuário e os armazena em uma lista. O programa identifica o maior e o menor valor digitado e exibe todas as posições (índices) onde esses valores aparecem na coleção, tratando possíveis duplicatas.
 * **Conceitos:** Listas (coleções mutáveis), inserção dinâmica de elementos com `append()`, atribuição condicional de limites na primeira iteração, mapeamento de índices e valores via `enumerate()` e iteração condicional para identificação de múltiplas ocorrências.
 
+### 79. Valores Únicos em uma Lista
+* **Descrição:** Permite o cadastro contínuo de múltiplos valores numéricos em uma lista, realizando a verificação de duplicidades antes de cada inserção para garantir apenas elementos inéditos. Ao final, exibe todos os valores cadastrados ordenados de forma crescente.
+* **Conceitos:** Listas mutáveis, inserção condicional com `append()`, operador de pertinência (`not in`) para prevenção de duplicatas, tratamento de resposta do usuário em laço `while True`, interrupção com `break` e ordenação in-place via método `sort()`.
+
 
 </details>
 
