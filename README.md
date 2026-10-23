@@ -364,6 +364,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê 5 valores numéricos informados pelo usuário e os insere diretamente na posição correta de ordenação dentro de uma lista, sem utilizar a função `sort()`. Exibe na tela a posição de cada inserção (no final ou em um índice específico) e mostra a lista final ordenada.
 * **Conceitos:** Algoritmo manual de ordenação (Insertion Sort simplificado), manipulação de índices em listas, verificação de extremidades (`c == 0 or n > lista[-1]`), inserção com `append()`, inserção posicional dinâmica com `insert()` e navegação com laço `while`.
 
+### 81. Extraindo Dados de uma Lista
+* **Descrição:** Lê múltiplos números informados pelo usuário e os armazena em uma lista. O programa analisa a coleção exibindo o total de elementos cadastrados, a lista ordenada de forma decrescente e uma verificação de presença do número 5.
+* **Conceitos:** Listas mutáveis, inserção dinâmica com `append()`, contagem de elementos com `len()`, ordenação decrescente *in-place* com `sort(reverse=True)` e verificação de pertinência usando o operador `in`.
+
 
 </details>
 
