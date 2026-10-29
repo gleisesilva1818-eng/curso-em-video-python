@@ -368,6 +368,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê múltiplos números informados pelo usuário e os armazena em uma lista. O programa analisa a coleção exibindo o total de elementos cadastrados, a lista ordenada de forma decrescente e uma verificação de presença do número 5.
 * **Conceitos:** Listas mutáveis, inserção dinâmica com `append()`, contagem de elementos com `len()`, ordenação decrescente *in-place* com `sort(reverse=True)` e verificação de pertinência usando o operador `in`.
 
+### 82. Dividindo Valores em Múltiplas Listas
+* **Descrição:** Lê múltiplos números informados pelo usuário e os armazena em uma lista principal, contando com um laço secundário para validação de continuidade. Em seguida, percorre a lista original para separar e preencher duas listas derivadas contendo exclusivamente os valores pares e ímpares.
+* **Conceitos:** Listas mutáveis, inserção dinâmica com `append()`, laços aninhados (`while True`) para validação de entrada, iteração com desestruturação de índice e valor usando `enumerate()`, e filtragem condicional por operador de resto/módulo (`v % 2 == 0`).
+
 
 </details>
 
