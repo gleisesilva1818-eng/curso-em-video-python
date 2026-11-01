@@ -10,7 +10,7 @@ for símb in expr:
         if len(pilha) > 0:
             pilha.pop() # -> Remove o último elemento da lista
         else:
-            pilha.appens(')')
+            pilha.append(')')
             break
 if len(pilha) == 0:
     print('Sua expressão está válida!')
