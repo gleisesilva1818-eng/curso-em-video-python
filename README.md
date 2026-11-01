@@ -372,6 +372,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê múltiplos números informados pelo usuário e os armazena em uma lista principal, contando com um laço secundário para validação de continuidade. Em seguida, percorre a lista original para separar e preencher duas listas derivadas contendo exclusivamente os valores pares e ímpares.
 * **Conceitos:** Listas mutáveis, inserção dinâmica com `append()`, laços aninhados (`while True`) para validação de entrada, iteração com desestruturação de índice e valor usando `enumerate()`, e filtragem condicional por operador de resto/módulo (`v % 2 == 0`).
 
+### 83. Validando Expressões Matemáticas
+* **Descrição:** Lê uma expressão matemática digitada pelo usuário e valida o balanceamento dos parênteses. Utiliza uma lista atuando como pilha para garantir que para cada parêntese aberto haja um fechamento correspondente na ordem correta, identificando erros de sintaxe ou desbalanceamento.
+* **Conceitos:** Listas aplicadas como pilha (conceito LIFO — *Last In, First Out*), empilhamento com `append()`, remoção do topo com `pop()`, validação de estado via `len()` e interrupção prematura (`break`) em exceções de fechamento sem abertura.
+
 
 </details>
 
