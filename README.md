@@ -376,6 +376,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê uma expressão matemática digitada pelo usuário e valida o balanceamento dos parênteses. Utiliza uma lista atuando como pilha para garantir que para cada parêntese aberto haja um fechamento correspondente na ordem correta, identificando erros de sintaxe ou desbalanceamento.
 * **Conceitos:** Listas aplicadas como pilha (conceito LIFO — *Last In, First Out*), empilhamento com `append()`, remoção do topo com `pop()`, validação de estado via `len()` e interrupção prematura (`break`) em exceções de fechamento sem abertura.
 
+### 84. Lista Composta e Análise de Dados
+* **Descrição:** Lê o nome e o peso de várias pessoas, armazenando os dados em uma lista composta por sublistas temporárias. O programa contabiliza o total de cadastros e analisa os registros para identificar e exibir os maiores e menores pesos, listando todos os nomes associados a cada um dos extremos (tratando empates).
+* **Conceitos:** Listas compostas (listas aninhadas / bidimensionais), cópia rasa de coleções via fatiamento (`temp[:]`), limpeza de buffer temporário com `clear()`, contagem de cadastros, controle de limites máximos e mínimos na primeira inserção e varredura condicional em estruturas aninhadas.
+
 
 </details>
 
