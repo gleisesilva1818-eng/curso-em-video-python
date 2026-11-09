@@ -10,4 +10,7 @@ for c in range(1, 8):
     else:
         num[1].append(valor)
 print('--' * 30)
-print(f'Todos os valores {num}')
+num[0].sort()
+num[1].sort()
+print(f'Os valores pares digitados foram {num[0]}.')
+print(f'Os valores ímpares digitados foram {num[1]}.')
