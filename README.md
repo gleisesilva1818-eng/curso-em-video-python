@@ -380,6 +380,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê o nome e o peso de várias pessoas, armazenando os dados em uma lista composta por sublistas temporárias. O programa contabiliza o total de cadastros e analisa os registros para identificar e exibir os maiores e menores pesos, listando todos os nomes associados a cada um dos extremos (tratando empates).
 * **Conceitos:** Listas compostas (listas aninhadas / bidimensionais), cópia rasa de coleções via fatiamento (`temp[:]`), limpeza de buffer temporário com `clear()`, contagem de cadastros, controle de limites máximos e mínimos na primeira inserção e varredura condicional em estruturas aninhadas.
 
+### 85. Listas com Pares e Ímpares
+* **Descrição:** Lê 7 valores numéricos e os cadastra em uma única lista composta que mantém as sublistas de números pares e ímpares previamente separadas na posição de índice `0` e `1`. Ao final, ordena individualmente cada sublista interna de forma crescente e exibe os grupos organizados.
+* **Conceitos:** Listas compostas pré-estruturadas (`[[], []]`), indexação e inserção direta em sublistas (`num[0].append()` e `num[1].append()`), verificação de paridade por operador de módulo (`valor % 2 == 0`) e ordenação *in-place* direcionada em subestruturas internas via método `sort()`.
+
 
 </details>
 
