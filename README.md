@@ -384,6 +384,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê 7 valores numéricos e os cadastra em uma única lista composta que mantém as sublistas de números pares e ímpares previamente separadas na posição de índice `0` e `1`. Ao final, ordena individualmente cada sublista interna de forma crescente e exibe os grupos organizados.
 * **Conceitos:** Listas compostas pré-estruturadas (`[[], []]`), indexação e inserção direta em sublistas (`num[0].append()` e `num[1].append()`), verificação de paridade por operador de módulo (`valor % 2 == 0`) e ordenação *in-place* direcionada em subestruturas internas via método `sort()`.
 
+### 86. Matriz em Python
+* **Descrição:** Lê valores numéricos pelo teclado para preencher uma matriz de dimensão 3×3 pré-declarada. O programa utiliza laços de repetição aninhados tanto para a alimentação dos dados quanto para a exibição final, formatando a matriz em grade com alinhamento centralizado dos elementos dentro dos colchetes.
+* **Conceitos:** Matrizes em Python (listas bidimensionais), declaração prévia de estrutura bidimensional (`[[0, 0, 0], ...]`), laços de repetição `for` aninhados para coordenadas de linha e coluna (`linha` e `c`), atribuição por índice duplo (`matriz[l][c]`) e formatação de exibição visual com f-strings (`:^5`) e quebra de linha com `print()`.
+
 
 </details>
 
