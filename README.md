@@ -388,6 +388,10 @@ Este repositório foi criado para consolidar meu aprendizado prático em **Pytho
 * **Descrição:** Lê valores numéricos pelo teclado para preencher uma matriz de dimensão 3×3 pré-declarada. O programa utiliza laços de repetição aninhados tanto para a alimentação dos dados quanto para a exibição final, formatando a matriz em grade com alinhamento centralizado dos elementos dentro dos colchetes.
 * **Conceitos:** Matrizes em Python (listas bidimensionais), declaração prévia de estrutura bidimensional (`[[0, 0, 0], ...]`), laços de repetição `for` aninhados para coordenadas de linha e coluna (`linha` e `c`), atribuição por índice duplo (`matriz[l][c]`) e formatação de exibição visual com f-strings (`:^5`) e quebra de linha com `print()`.
 
+### 87. Mais sobre Matriz em Python
+* **Descrição:** Aprimora a matriz 3×3 do exercício anterior adicionando rotinas de análise e processamento de dados sobre os elementos armazenados. Além da exibição formatada da grade, o programa calcula a soma de todos os valores pares, realiza a somatória específica da terceira coluna e identifica o maior valor presente na segunda linha.
+* **Conceitos:** Matrizes bidimensionais, filtragem e acumulação condicional durante a varredura (`matriz[linha][c] % 2 == 0`), indexação fixa em eixos específicos (varredura vertical em coluna fixa `matriz[linha][2]` e horizontal em linha fixa `matriz[1][c]`) e rastreamento de valor máximo em subconjuntos de uma matriz.
+
 
 </details>
 
