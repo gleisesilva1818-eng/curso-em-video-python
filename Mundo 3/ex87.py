@@ -18,4 +18,9 @@ print(f'A soma dos valores pares é de {somapar}')
 for linha in range(0, 3):
     somacoluna += matriz[linha][2]
 print(f'A soma dos valores da terceira coluna é de {somacoluna}')
-
+for c in range(0, 3):
+    if c == 0:
+        mai = matriz[1][c]
+    elif matriz[1][c] > mai:
+        mai = matriz[1][c]
+print(f'O maior valor da segunda linha é {mai}')
